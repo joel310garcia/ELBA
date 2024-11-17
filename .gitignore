@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -141,3 +142,10 @@ dist/
 clave/
 clave.pub/
 >>>>>>> 69b7707 (first)
+=======
+node_modules
+storage/*
+!storage/.gitkeep
+.env
+dist/
+>>>>>>> origin/main
