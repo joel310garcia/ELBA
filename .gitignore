@@ -135,4 +135,9 @@ storage/*
 !storage/.gitkeep
 .env
 dist/
+<<<<<<< HEAD
 >>>>>>> 0adf8f7 (firstOne)
+=======
+clave/
+clave.pub/
+>>>>>>> 69b7707 (first)
